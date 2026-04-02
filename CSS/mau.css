@@ -1,0 +1,37 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+th.tieude{
+	}
+
+h1.value{
+	color: blue;
+}
+td.mssv{
+	text-align:center;
+	width:200px; 
+	height:100%;
+
+
+	
+}
+a{
+	display: inline-block;
+	text-decoration:none;
+	background-color:green;
+	color:white;
+	font-size:30px;
+	border-radius:5px;
+	padding:5px 40px 5px 40px;
+	margin:5px;
+}
+iframe{
+	width:1000px; 
+	height:1200px;
+	border:none;
+}
+a:hover{
+	color:black;
+	background-color:pink;
+}
